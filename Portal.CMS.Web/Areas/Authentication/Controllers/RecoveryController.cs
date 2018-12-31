@@ -1,13 +1,13 @@
-﻿using Portal.CMS.Entities.Enumerators;
-using Portal.CMS.Services.Authentication;
-using Portal.CMS.Web.Architecture.Helpers;
-using Portal.CMS.Web.Areas.Authentication.ViewModels.Login;
-using Portal.CMS.Web.Areas.Authentication.ViewModels.Recovery;
+﻿using Farz.CMS.Entities.Enumerators;
+using Farz.CMS.Services.Authentication;
+using Farz.CMS.Web.Architecture.Helpers;
+using Farz.CMS.Web.Areas.Authentication.ViewModels.Login;
+using Farz.CMS.Web.Areas.Authentication.ViewModels.Recovery;
 using System;
 using System.Threading.Tasks;
 using System.Web.Mvc;
 
-namespace Portal.CMS.Web.Areas.Authentication.Controllers
+namespace Farz.CMS.Web.Areas.Authentication.Controllers
 {
     public class RecoveryController : Controller
     {

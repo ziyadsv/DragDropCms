@@ -1,14 +1,14 @@
-﻿using Portal.CMS.Services.Authentication;
-using Portal.CMS.Services.Menu;
-using Portal.CMS.Services.PageBuilder;
-using Portal.CMS.Services.Posts;
-using Portal.CMS.Web.Architecture.ActionFilters;
-using Portal.CMS.Web.Areas.Admin.ViewModels.MenuItem;
+﻿using Farz.CMS.Services.Authentication;
+using Farz.CMS.Services.Menu;
+using Farz.CMS.Services.PageBuilder;
+using Farz.CMS.Services.Posts;
+using Farz.CMS.Web.Architecture.ActionFilters;
+using Farz.CMS.Web.Areas.Admin.ViewModels.MenuItem;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Web.Mvc;
 
-namespace Portal.CMS.Web.Areas.Admin.Controllers
+namespace Farz.CMS.Web.Areas.Admin.Controllers
 {
     [AdminFilter(ActionFilterResponseType.Modal)]
     public class MenuItemController : Controller

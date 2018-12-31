@@ -1,12 +1,12 @@
-﻿using Portal.CMS.Entities;
-using Portal.CMS.Entities.Entities;
-using Portal.CMS.Entities.Enumerators;
+﻿using Farz.CMS.Entities;
+using Farz.CMS.Entities.Entities;
+using Farz.CMS.Entities.Enumerators;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Portal.CMS.Services.Generic
+namespace Farz.CMS.Services.Generic
 {
     public interface IImageService
     {

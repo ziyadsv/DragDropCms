@@ -2,7 +2,7 @@
 using System.Web.Helpers;
 using System.Web.Mvc;
 
-namespace Portal.CMS.Web.Architecture.ActionFilters
+namespace Farz.CMS.Web.Architecture.ActionFilters
 {
     [AttributeUsage(AttributeTargets.Method | AttributeTargets.Class, AllowMultiple = false, Inherited = true)]
     public class ValidateJsonAntiForgeryTokenAttribute : FilterAttribute, IAuthorizationFilter

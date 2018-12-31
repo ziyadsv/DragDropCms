@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace Portal.CMS.Entities.Entities
+namespace Farz.CMS.Entities.Entities
 {
     public class PageSection
     {

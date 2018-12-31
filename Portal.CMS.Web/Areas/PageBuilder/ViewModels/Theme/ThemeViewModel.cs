@@ -1,6 +1,6 @@
-﻿using Portal.CMS.Entities.Entities;
+﻿using Farz.CMS.Entities.Entities;
 
-namespace Portal.CMS.Web.Areas.PageBuilder.ViewModels.Theme
+namespace Farz.CMS.Web.Areas.PageBuilder.ViewModels.Theme
 {
     public class ThemeViewModel
     {

@@ -1,10 +1,10 @@
-﻿using Portal.CMS.Services.PageBuilder;
-using Portal.CMS.Web.Architecture.Helpers;
-using Portal.CMS.Web.DependencyResolution;
+﻿using Farz.CMS.Services.PageBuilder;
+using Farz.CMS.Web.Architecture.Helpers;
+using Farz.CMS.Web.DependencyResolution;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace Portal.CMS.Web
+namespace Farz.CMS.Web
 {
     public static class RouteConfig
     {

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portal.CMS.Web", "Portal.CMS.Web\Portal.CMS.Web.csproj", "{0AA59984-5211-4C28-91A4-B7DBB71AEFAE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farz.CMS.Web", "Portal.CMS.Web\Farz.CMS.Web.csproj", "{0AA59984-5211-4C28-91A4-B7DBB71AEFAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portal.CMS.Entities", "Portal.CMS.Entities\Portal.CMS.Entities.csproj", "{13103A2E-FF04-442F-95F6-C2E8EDB0F274}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farz.CMS.Entities", "Portal.CMS.Entities\Farz.CMS.Entities.csproj", "{13103A2E-FF04-442F-95F6-C2E8EDB0F274}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portal.CMS.Services", "Portal.CMS.Services\Portal.CMS.Services.csproj", "{153C71ED-5F82-4755-AA59-E468B026D4BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farz.CMS.Services", "Portal.CMS.Services\Farz.CMS.Services.csproj", "{153C71ED-5F82-4755-AA59-E468B026D4BB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CDDB34D9-DF99-4052-9C28-E260C1CF0C9B}"
 	ProjectSection(SolutionItems) = preProject
@@ -16,7 +16,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portal.CMS.Services.Tests", "Portal.CMS.Services.Tests\Portal.CMS.Services.Tests.csproj", "{C087F6DF-B459-4DDD-A509-C57E4CDF2BF1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farz.CMS.Services.Tests", "Portal.CMS.Services.Tests\Farz.CMS.Services.Tests.csproj", "{C087F6DF-B459-4DDD-A509-C57E4CDF2BF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

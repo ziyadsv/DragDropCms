@@ -1,6 +1,6 @@
 ﻿using System.Web;
 
-namespace Portal.CMS.Web.Architecture.Modules
+namespace Farz.CMS.Web.Architecture.Modules
 {
     public class RemoveResponseHeadersModule : IHttpModule
     {

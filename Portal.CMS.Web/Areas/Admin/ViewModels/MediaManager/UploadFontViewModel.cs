@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.Web;
 
-namespace Portal.CMS.Web.Areas.Admin.ViewModels.MediaManager
+namespace Farz.CMS.Web.Areas.Admin.ViewModels.MediaManager
 {
     public class UploadFontViewModel
     {

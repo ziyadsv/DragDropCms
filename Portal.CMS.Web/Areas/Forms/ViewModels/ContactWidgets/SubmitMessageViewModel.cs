@@ -1,4 +1,4 @@
-﻿namespace Portal.CMS.Web.Areas.Forms.ViewModels.ContactWidgets
+﻿namespace Farz.CMS.Web.Areas.Forms.ViewModels.ContactWidgets
 {
     public class SubmitMessageViewModel
     {

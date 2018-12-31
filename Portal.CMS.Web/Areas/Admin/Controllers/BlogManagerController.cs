@@ -1,18 +1,18 @@
-﻿using Portal.CMS.Entities.Enumerators;
-using Portal.CMS.Services.Authentication;
-using Portal.CMS.Services.Generic;
-using Portal.CMS.Services.Posts;
-using Portal.CMS.Web.Architecture.ActionFilters;
-using Portal.CMS.Web.Architecture.Helpers;
-using Portal.CMS.Web.Areas.Admin.ViewModels.BlogManager;
-using Portal.CMS.Web.ViewModels.Shared;
+﻿using Farz.CMS.Entities.Enumerators;
+using Farz.CMS.Services.Authentication;
+using Farz.CMS.Services.Generic;
+using Farz.CMS.Services.Posts;
+using Farz.CMS.Web.Architecture.ActionFilters;
+using Farz.CMS.Web.Architecture.Helpers;
+using Farz.CMS.Web.Areas.Admin.ViewModels.BlogManager;
+using Farz.CMS.Web.ViewModels.Shared;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Web.Mvc;
 
-namespace Portal.CMS.Web.Areas.Admin.Controllers
+namespace Farz.CMS.Web.Areas.Admin.Controllers
 {
     public class BlogManagerController : Controller
     {

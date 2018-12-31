@@ -1,4 +1,4 @@
-namespace Portal.CMS.Entities.Migrations
+namespace Farz.CMS.Entities.Migrations
 {
     using System.Data.Entity.Migrations;
     using System.Linq;

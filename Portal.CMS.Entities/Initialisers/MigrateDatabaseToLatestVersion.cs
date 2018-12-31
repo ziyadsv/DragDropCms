@@ -1,6 +1,6 @@
-﻿namespace Portal.CMS.Entities.Initialisers
+﻿namespace Farz.CMS.Entities.Initialisers
 {
-    using Portal.CMS.Entities.Migrations;
+    using Farz.CMS.Entities.Migrations;
     using System.Data.Entity;
 
     internal class MigrateDatabaseToLatestVersion : MigrateDatabaseToLatestVersion<PortalEntityModel, Configuration>

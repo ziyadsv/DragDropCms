@@ -1,4 +1,4 @@
-﻿namespace Portal.CMS.Web.Architecture.ActionFilters
+﻿namespace Farz.CMS.Web.Architecture.ActionFilters
 {
     public enum ActionFilterResponseType
     {

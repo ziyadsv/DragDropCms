@@ -1,4 +1,4 @@
-﻿namespace Portal.CMS.Entities.Initialisers
+﻿namespace Farz.CMS.Entities.Initialisers
 {
     using System.Data.Entity;
     using System.Data.Entity.Migrations;

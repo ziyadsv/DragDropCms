@@ -1,10 +1,10 @@
-﻿using Portal.CMS.Services.Authentication;
-using Portal.CMS.Web.Architecture.ActionFilters;
-using Portal.CMS.Web.Areas.Admin.ViewModels.RoleManager;
+﻿using Farz.CMS.Services.Authentication;
+using Farz.CMS.Web.Architecture.ActionFilters;
+using Farz.CMS.Web.Areas.Admin.ViewModels.RoleManager;
 using System.Threading.Tasks;
 using System.Web.Mvc;
 
-namespace Portal.CMS.Web.Areas.Admin.Controllers
+namespace Farz.CMS.Web.Areas.Admin.Controllers
 {
     [AdminFilter(ActionFilterResponseType.Page)]
     public class RoleManagerController : Controller

@@ -1,10 +1,10 @@
-﻿using Portal.CMS.Services.Posts;
-using Portal.CMS.Web.Architecture.ActionFilters;
-using Portal.CMS.Web.Areas.Admin.ViewModels.PostCategories;
+﻿using Farz.CMS.Services.Posts;
+using Farz.CMS.Web.Architecture.ActionFilters;
+using Farz.CMS.Web.Areas.Admin.ViewModels.PostCategories;
 using System.Threading.Tasks;
 using System.Web.Mvc;
 
-namespace Portal.CMS.Web.Areas.Admin.Controllers
+namespace Farz.CMS.Web.Areas.Admin.Controllers
 {
     public class PostCategoriesController : Controller
     {

@@ -1,12 +1,12 @@
-﻿using Portal.CMS.Entities;
-using Portal.CMS.Entities.Entities;
-using Portal.CMS.Services.Shared;
+﻿using Farz.CMS.Entities;
+using Farz.CMS.Entities.Entities;
+using Farz.CMS.Services.Shared;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Portal.CMS.Services.PageBuilder
+namespace Farz.CMS.Services.PageBuilder
 {
     public interface IPageComponentService
     {

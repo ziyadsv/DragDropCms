@@ -1,6 +1,6 @@
-﻿using Portal.CMS.Web.ViewModels.Shared;
+﻿using Farz.CMS.Web.ViewModels.Shared;
 
-namespace Portal.CMS.Web.Areas.PageBuilder.ViewModels.Section
+namespace Farz.CMS.Web.Areas.PageBuilder.ViewModels.Section
 {
     public class EditBackgroundImageViewModel
     {

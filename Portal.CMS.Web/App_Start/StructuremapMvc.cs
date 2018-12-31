@@ -1,14 +1,14 @@
-using Portal.CMS.Web.App_Start;
+using Farz.CMS.Web.App_Start;
 
 using WebActivatorEx;
 
 [assembly: PreApplicationStartMethod(typeof(StructuremapMvc), "Start")]
 [assembly: ApplicationShutdownMethod(typeof(StructuremapMvc), "End")]
 
-namespace Portal.CMS.Web.App_Start
+namespace Farz.CMS.Web.App_Start
 {
     using Microsoft.Web.Infrastructure.DynamicModuleHelper;
-    using Portal.CMS.Web.DependencyResolution;
+    using Farz.CMS.Web.DependencyResolution;
     using System.Web.Mvc;
 
     public static class StructuremapMvc

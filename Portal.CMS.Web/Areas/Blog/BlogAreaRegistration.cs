@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace Portal.CMS.Web.Areas.BlogManager
+namespace Farz.CMS.Web.Areas.BlogManager
 {
     public class BlogAreaRegistration : AreaRegistration
     {

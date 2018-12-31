@@ -1,12 +1,12 @@
-﻿using Portal.CMS.Services.Copy;
-using Portal.CMS.Web.Architecture.ActionFilters;
-using Portal.CMS.Web.Architecture.Helpers;
-using Portal.CMS.Web.Areas.Admin.ViewModels.CopyManager;
+﻿using Farz.CMS.Services.Copy;
+using Farz.CMS.Web.Architecture.ActionFilters;
+using Farz.CMS.Web.Architecture.Helpers;
+using Farz.CMS.Web.Areas.Admin.ViewModels.CopyManager;
 using System;
 using System.Threading.Tasks;
 using System.Web.Mvc;
 
-namespace Portal.CMS.Web.Areas.Admin.Controllers
+namespace Farz.CMS.Web.Areas.Admin.Controllers
 {
     public class CopyManagerController : Controller
     {

@@ -90,9 +90,9 @@
     <Compile Include="Themes\ThemeService.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Portal.CMS.Entities\Portal.CMS.Entities.csproj">
+    <ProjectReference Include="..\Portal.CMS.Entities\Farz.CMS.Entities.csproj">
       <Project>{13103A2E-FF04-442F-95F6-C2E8EDB0F274}</Project>
-      <Name>Portal.CMS.Entities</Name>
+      <Name>Farz.CMS.Entities</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

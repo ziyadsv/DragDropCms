@@ -1,9 +1,9 @@
-﻿using Portal.CMS.Entities.Enumerators;
-using Portal.CMS.Services.Authentication;
-using Portal.CMS.Services.PageBuilder;
-using Portal.CMS.Web.Architecture.ActionFilters;
-using Portal.CMS.Web.Architecture.Helpers;
-using Portal.CMS.Web.Areas.Admin.ViewModels.PageManager;
+﻿using Farz.CMS.Entities.Enumerators;
+using Farz.CMS.Services.Authentication;
+using Farz.CMS.Services.PageBuilder;
+using Farz.CMS.Web.Architecture.ActionFilters;
+using Farz.CMS.Web.Architecture.Helpers;
+using Farz.CMS.Web.Areas.Admin.ViewModels.PageManager;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Portal.CMS.Web.Areas.Admin.Controllers
+namespace Farz.CMS.Web.Areas.Admin.Controllers
 {
     [AdminFilter(ActionFilterResponseType.Page)]
     public class PageManagerController : Controller

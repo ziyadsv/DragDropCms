@@ -1,11 +1,11 @@
 ﻿using HtmlAgilityPack;
-using Portal.CMS.Entities.Enumerators;
+using Farz.CMS.Entities.Enumerators;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace Portal.CMS.Services.Shared
+namespace Farz.CMS.Services.Shared
 {
     public class Document
     {

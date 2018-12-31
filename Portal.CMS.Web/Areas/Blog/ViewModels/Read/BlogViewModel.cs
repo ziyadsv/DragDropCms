@@ -1,7 +1,7 @@
-﻿using Portal.CMS.Entities.Entities;
+﻿using Farz.CMS.Entities.Entities;
 using System.Collections.Generic;
 
-namespace Portal.CMS.Web.Areas.BlogManager.ViewModels.Read
+namespace Farz.CMS.Web.Areas.BlogManager.ViewModels.Read
 {
     public class BlogViewModel
     {

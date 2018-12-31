@@ -1,7 +1,7 @@
-﻿using Portal.CMS.Web.Architecture.Helpers;
+﻿using Farz.CMS.Web.Architecture.Helpers;
 using System.Web.Optimization;
 
-namespace Portal.CMS.Web
+namespace Farz.CMS.Web
 {
     public static class BundleConfig
     {

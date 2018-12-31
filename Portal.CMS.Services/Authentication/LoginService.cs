@@ -1,10 +1,10 @@
-﻿using Portal.CMS.Entities;
+﻿using Farz.CMS.Entities;
 using System;
 using System.Data.Entity;
 using System.Security.Cryptography;
 using System.Threading.Tasks;
 
-namespace Portal.CMS.Services.Authentication
+namespace Farz.CMS.Services.Authentication
 {
     public interface ILoginService
     {

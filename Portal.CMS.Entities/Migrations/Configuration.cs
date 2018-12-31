@@ -1,16 +1,16 @@
-namespace Portal.CMS.Entities.Migrations
+namespace Farz.CMS.Entities.Migrations
 {
     using Seed;
     using System.Data.Entity.Migrations;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<Portal.CMS.Entities.PortalEntityModel>
+    internal sealed class Configuration : DbMigrationsConfiguration<Farz.CMS.Entities.PortalEntityModel>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(Portal.CMS.Entities.PortalEntityModel context)
+        protected override void Seed(Farz.CMS.Entities.PortalEntityModel context)
         {
             ThemeSeed.Seed(context);
             RoleSeed.Seed(context);

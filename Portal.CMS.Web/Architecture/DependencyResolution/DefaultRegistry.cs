@@ -1,4 +1,4 @@
-namespace Portal.CMS.Web.DependencyResolution
+namespace Farz.CMS.Web.DependencyResolution
 {
     using StructureMap.Configuration.DSL;
     using StructureMap.Graph;
@@ -13,7 +13,7 @@ namespace Portal.CMS.Web.DependencyResolution
                     scan.TheCallingAssembly();
                     scan.WithDefaultConventions();
                     scan.With(new ControllerConvention());
-                    scan.Assembly("Portal.CMS.Services");
+                    scan.Assembly("Farz.CMS.Services");
                 });
         }
     }

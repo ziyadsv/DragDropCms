@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Portal.CMS.Web.Architecture.Helpers
+namespace Farz.CMS.Web.Architecture.Helpers
 {
     public static class AsyncHelpers
     {

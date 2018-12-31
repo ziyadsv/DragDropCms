@@ -1,14 +1,14 @@
 ﻿using LogBook.Services;
 using LogBook.Services.Models;
-using Portal.CMS.Web.Architecture.Helpers;
-using Portal.CMS.Web.Architecture.ViewEngines;
+using Farz.CMS.Web.Architecture.Helpers;
+using Farz.CMS.Web.Architecture.ViewEngines;
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Razor;
 using System.Web.Routing;
 using System.Web.WebPages;
 
-namespace Portal.CMS.Web
+namespace Farz.CMS.Web
 {
     public class MvcApplication : System.Web.HttpApplication
     {

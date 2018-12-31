@@ -1,14 +1,14 @@
-﻿using Portal.CMS.Services.Authentication;
-using Portal.CMS.Web.Architecture.ActionFilters;
-using Portal.CMS.Web.Architecture.Helpers;
-using Portal.CMS.Web.Areas.Profile.ViewModels.Manage;
+﻿using Farz.CMS.Services.Authentication;
+using Farz.CMS.Web.Architecture.ActionFilters;
+using Farz.CMS.Web.Architecture.Helpers;
+using Farz.CMS.Web.Areas.Profile.ViewModels.Manage;
 using System;
 using System.IO;
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Portal.CMS.Web.Areas.Profile.Controllers
+namespace Farz.CMS.Web.Areas.Profile.Controllers
 {
     public class ManageController : Controller
     {

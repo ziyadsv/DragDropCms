@@ -1,12 +1,12 @@
-﻿using Portal.CMS.Services.Authentication;
-using Portal.CMS.Web.Architecture.ActionFilters;
-using Portal.CMS.Web.Architecture.Helpers;
-using Portal.CMS.Web.Areas.Admin.ViewModels.UserManager;
+﻿using Farz.CMS.Services.Authentication;
+using Farz.CMS.Web.Architecture.ActionFilters;
+using Farz.CMS.Web.Architecture.Helpers;
+using Farz.CMS.Web.Areas.Admin.ViewModels.UserManager;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Web.Mvc;
 
-namespace Portal.CMS.Web.Areas.Admin.Controllers
+namespace Farz.CMS.Web.Areas.Admin.Controllers
 {
     [AdminFilter(ActionFilterResponseType.Page)]
     public class UserManagerController : Controller

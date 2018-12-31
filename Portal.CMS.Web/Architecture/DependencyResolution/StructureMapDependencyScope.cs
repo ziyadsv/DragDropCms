@@ -1,4 +1,4 @@
-namespace Portal.CMS.Web.DependencyResolution
+namespace Farz.CMS.Web.DependencyResolution
 {
     using Microsoft.Practices.ServiceLocation;
     using StructureMap;

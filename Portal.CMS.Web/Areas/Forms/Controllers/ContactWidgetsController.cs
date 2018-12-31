@@ -1,13 +1,13 @@
-﻿using Portal.CMS.Services.Authentication;
-using Portal.CMS.Web.Architecture.Helpers;
-using Portal.CMS.Web.Areas.Forms.ViewModels.ContactWidgets;
+﻿using Farz.CMS.Services.Authentication;
+using Farz.CMS.Web.Architecture.Helpers;
+using Farz.CMS.Web.Areas.Forms.ViewModels.ContactWidgets;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Web.Mvc;
 using System.Web.SessionState;
 
-namespace Portal.CMS.Web.Areas.Forms.Controllers
+namespace Farz.CMS.Web.Areas.Forms.Controllers
 {
     [SessionState(SessionStateBehavior.ReadOnly)]
     public class ContactWidgetsController : Controller

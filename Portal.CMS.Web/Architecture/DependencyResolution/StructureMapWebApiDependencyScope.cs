@@ -1,7 +1,7 @@
 using StructureMap;
 using System.Web.Http.Dependencies;
 
-namespace Portal.CMS.Web.DependencyResolution
+namespace Farz.CMS.Web.DependencyResolution
 {
     /// <summary>
     /// The structure map web api dependency scope.

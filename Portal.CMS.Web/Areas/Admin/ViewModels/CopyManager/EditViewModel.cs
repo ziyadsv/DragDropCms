@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace Portal.CMS.Web.Areas.Admin.ViewModels.CopyManager
+namespace Farz.CMS.Web.Areas.Admin.ViewModels.CopyManager
 {
     public class EditViewModel
     {

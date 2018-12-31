@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace Portal.CMS.Web.Areas.Profile.ViewModels.Manage
+namespace Farz.CMS.Web.Areas.Profile.ViewModels.Manage
 {
     public class BioViewModel
     {

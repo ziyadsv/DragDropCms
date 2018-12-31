@@ -1,7 +1,7 @@
-﻿using Portal.CMS.Entities.Enumerators;
+﻿using Farz.CMS.Entities.Enumerators;
 using System.Collections.Generic;
 
-namespace Portal.CMS.Web.Areas.Admin.ViewModels.AnalyticManager
+namespace Farz.CMS.Web.Areas.Admin.ViewModels.AnalyticManager
 {
     public class ChartViewModel
     {

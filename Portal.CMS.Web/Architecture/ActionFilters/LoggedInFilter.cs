@@ -1,8 +1,8 @@
-﻿using Portal.CMS.Web.Architecture.Helpers;
+﻿using Farz.CMS.Web.Architecture.Helpers;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace Portal.CMS.Web.Architecture.ActionFilters
+namespace Farz.CMS.Web.Architecture.ActionFilters
 {
     public sealed class LoggedInFilter : ActionFilterAttribute
     {

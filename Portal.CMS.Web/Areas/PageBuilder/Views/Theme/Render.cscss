@@ -1,5 +1,5 @@
-﻿@model Portal.CMS.Web.Areas.PageBuilder.ViewModels.Theme.ThemeViewModel
-@using Portal.CMS.Web.Architecture.Extensions
+﻿@model Farz.CMS.Web.Areas.PageBuilder.ViewModels.Theme.ThemeViewModel
+@using Farz.CMS.Web.Architecture.Extensions
 
 @@font-face { font-family: '@Model.Theme.TitleFont.FontName'; src: url('@Model.Theme.TitleFont.FontPath') format('@Model.Theme.TitleFont.FontType'); }
 

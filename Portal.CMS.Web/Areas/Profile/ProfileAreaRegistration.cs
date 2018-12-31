@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace Portal.CMS.Web.Areas.Profile
+namespace Farz.CMS.Web.Areas.Profile
 {
     public class ProfileAreaRegistration : AreaRegistration
     {

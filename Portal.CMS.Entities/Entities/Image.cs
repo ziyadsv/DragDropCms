@@ -1,7 +1,7 @@
-﻿using Portal.CMS.Entities.Enumerators;
+﻿using Farz.CMS.Entities.Enumerators;
 using System.ComponentModel.DataAnnotations;
 
-namespace Portal.CMS.Entities.Entities
+namespace Farz.CMS.Entities.Entities
 {
     public class Image
     {

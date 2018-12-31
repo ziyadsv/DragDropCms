@@ -1,12 +1,12 @@
-﻿using Portal.CMS.Services.Posts;
-using Portal.CMS.Web.Architecture.Helpers;
-using Portal.CMS.Web.Areas.Blog.ViewModels.Widgets;
+﻿using Farz.CMS.Services.Posts;
+using Farz.CMS.Web.Architecture.Helpers;
+using Farz.CMS.Web.Areas.Blog.ViewModels.Widgets;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Web.Mvc;
 using System.Web.SessionState;
 
-namespace Portal.CMS.Web.Areas.BlogManager.Controllers
+namespace Farz.CMS.Web.Areas.BlogManager.Controllers
 {
     [SessionState(SessionStateBehavior.ReadOnly)]
     public class WidgetsController : Controller

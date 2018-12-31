@@ -1,4 +1,4 @@
-﻿namespace Portal.CMS.Web.Areas.Admin.ViewModels.UserManager
+﻿namespace Farz.CMS.Web.Areas.Admin.ViewModels.UserManager
 {
     public class DeleteViewModel
     {

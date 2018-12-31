@@ -1,4 +1,4 @@
-﻿namespace Portal.CMS.Web.Areas.Admin.ViewModels.ThemeManager
+﻿namespace Farz.CMS.Web.Areas.Admin.ViewModels.ThemeManager
 {
     public class DefaultViewModel
     {

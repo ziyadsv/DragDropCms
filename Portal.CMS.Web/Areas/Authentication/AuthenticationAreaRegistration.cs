@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace Portal.CMS.Web.Areas.Authentication
+namespace Farz.CMS.Web.Areas.Authentication
 {
     public class AuthenticationAreaRegistration : AreaRegistration
     {

@@ -1,9 +1,9 @@
-﻿using Portal.CMS.Entities.Entities;
-using Portal.CMS.Entities.Enumerators;
+﻿using Farz.CMS.Entities.Entities;
+using Farz.CMS.Entities.Enumerators;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Portal.CMS.Entities.Seed
+namespace Farz.CMS.Entities.Seed
 {
     public static class MediaSeed
     {

@@ -1,15 +1,15 @@
-﻿using Portal.CMS.Services.Analytics;
-using Portal.CMS.Services.Authentication;
-using Portal.CMS.Services.Posts;
-using Portal.CMS.Services.Themes;
-using Portal.CMS.Web.Architecture.Helpers;
-using Portal.CMS.Web.Areas.BlogManager.ViewModels.Read;
+﻿using Farz.CMS.Services.Analytics;
+using Farz.CMS.Services.Authentication;
+using Farz.CMS.Services.Posts;
+using Farz.CMS.Services.Themes;
+using Farz.CMS.Web.Architecture.Helpers;
+using Farz.CMS.Web.Areas.BlogManager.ViewModels.Read;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Web.Mvc;
 using System.Web.SessionState;
 
-namespace Portal.CMS.Web.Areas.BlogManager.Controllers
+namespace Farz.CMS.Web.Areas.BlogManager.Controllers
 {
     [SessionState(SessionStateBehavior.ReadOnly)]
     public class ReadController : Controller

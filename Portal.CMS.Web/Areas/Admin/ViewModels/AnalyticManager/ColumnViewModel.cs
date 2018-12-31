@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Portal.CMS.Web.Areas.Admin.ViewModels.AnalyticManager
+namespace Farz.CMS.Web.Areas.Admin.ViewModels.AnalyticManager
 {
     public class ColumnViewModel
     {

@@ -1,9 +1,9 @@
-﻿using Portal.CMS.Entities;
-using Portal.CMS.Entities.Entities;
+﻿using Farz.CMS.Entities;
+using Farz.CMS.Entities.Entities;
 using System;
 using System.Threading.Tasks;
 
-namespace Portal.CMS.Services.Posts
+namespace Farz.CMS.Services.Posts
 {
     public interface IPostCommentService
     {

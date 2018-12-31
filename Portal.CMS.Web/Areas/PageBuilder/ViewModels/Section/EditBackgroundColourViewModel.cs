@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace Portal.CMS.Web.Areas.PageBuilder.ViewModels.Section
+namespace Farz.CMS.Web.Areas.PageBuilder.ViewModels.Section
 {
     public class EditBackgroundColourViewModel
     {

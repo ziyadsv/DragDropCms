@@ -74,13 +74,13 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Portal.CMS.Entities\Portal.CMS.Entities.csproj">
+    <ProjectReference Include="..\Portal.CMS.Entities\Farz.CMS.Entities.csproj">
       <Project>{13103a2e-ff04-442f-95f6-c2e8edb0f274}</Project>
-      <Name>Portal.CMS.Entities</Name>
+      <Name>Farz.CMS.Entities</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Portal.CMS.Services\Portal.CMS.Services.csproj">
+    <ProjectReference Include="..\Portal.CMS.Services\Farz.CMS.Services.csproj">
       <Project>{153c71ed-5f82-4755-aa59-e468b026d4bb}</Project>
-      <Name>Portal.CMS.Services</Name>
+      <Name>Farz.CMS.Services</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

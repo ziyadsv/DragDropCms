@@ -1,14 +1,14 @@
-﻿using Portal.CMS.Entities.Entities;
-using Portal.CMS.Services.Themes;
-using Portal.CMS.Web.Architecture.ActionFilters;
-using Portal.CMS.Web.Areas.Admin.ViewModels.ThemeManager;
+﻿using Farz.CMS.Entities.Entities;
+using Farz.CMS.Services.Themes;
+using Farz.CMS.Web.Architecture.ActionFilters;
+using Farz.CMS.Web.Areas.Admin.ViewModels.ThemeManager;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Web.Mvc;
 
-namespace Portal.CMS.Web.Areas.Admin.Controllers
+namespace Farz.CMS.Web.Areas.Admin.Controllers
 {
     public class ThemeManagerController : Controller
     {

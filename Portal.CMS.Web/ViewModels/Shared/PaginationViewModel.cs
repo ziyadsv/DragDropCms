@@ -1,9 +1,9 @@
-﻿using Portal.CMS.Entities.Entities;
+﻿using Farz.CMS.Entities.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Portal.CMS.Web.ViewModels.Shared
+namespace Farz.CMS.Web.ViewModels.Shared
 {
     public class PaginationViewModel
     {

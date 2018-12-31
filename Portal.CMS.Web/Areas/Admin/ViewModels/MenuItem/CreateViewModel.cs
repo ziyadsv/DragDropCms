@@ -1,9 +1,9 @@
-﻿using Portal.CMS.Entities.Entities;
+﻿using Farz.CMS.Entities.Entities;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace Portal.CMS.Web.Areas.Admin.ViewModels.MenuItem
+namespace Farz.CMS.Web.Areas.Admin.ViewModels.MenuItem
 {
     public class CreateViewModel
     {

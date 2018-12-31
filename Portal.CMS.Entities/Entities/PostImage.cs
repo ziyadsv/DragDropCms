@@ -1,8 +1,8 @@
-﻿using Portal.CMS.Entities.Enumerators;
+﻿using Farz.CMS.Entities.Enumerators;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Portal.CMS.Entities.Entities
+namespace Farz.CMS.Entities.Entities
 {
     public class PostImage
     {

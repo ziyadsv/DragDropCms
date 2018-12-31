@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace Portal.CMS.Web.Architecture.ViewEngines
+namespace Farz.CMS.Web.Architecture.ViewEngines
 {
     public class CSSViewEngine : RazorViewEngine
     {

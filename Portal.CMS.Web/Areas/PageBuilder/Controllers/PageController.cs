@@ -1,11 +1,11 @@
-﻿using Portal.CMS.Services.Analytics;
-using Portal.CMS.Services.PageBuilder;
-using Portal.CMS.Web.Architecture.Helpers;
+﻿using Farz.CMS.Services.Analytics;
+using Farz.CMS.Services.PageBuilder;
+using Farz.CMS.Web.Architecture.Helpers;
 using System.Threading.Tasks;
 using System.Web.Mvc;
 using System.Web.SessionState;
 
-namespace Portal.CMS.Web.Areas.PageBuilder.Controllers
+namespace Farz.CMS.Web.Areas.PageBuilder.Controllers
 {
     [SessionState(SessionStateBehavior.ReadOnly)]
     public class PageController : Controller

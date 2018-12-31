@@ -1,13 +1,13 @@
 ﻿using NUnit.Framework;
-using Portal.CMS.Entities;
-using Portal.CMS.Entities.Entities;
-using Portal.CMS.Services.Authentication;
+using Farz.CMS.Entities;
+using Farz.CMS.Entities.Entities;
+using Farz.CMS.Services.Authentication;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Portal.CMS.Services.Tests.Authenticated
+namespace Farz.CMS.Services.Tests.Authenticated
 {
     [TestFixture]
     public class RoleServiceTests

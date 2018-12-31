@@ -1,10 +1,10 @@
-﻿using Portal.CMS.Entities.Entities;
+﻿using Farz.CMS.Entities.Entities;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
 using System.Web.Mvc;
 
-namespace Portal.CMS.Web.Areas.PageBuilder.ViewModels.Section
+namespace Farz.CMS.Web.Areas.PageBuilder.ViewModels.Section
 {
     public class CloneViewModel
     {

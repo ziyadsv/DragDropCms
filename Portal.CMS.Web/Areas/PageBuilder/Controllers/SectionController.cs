@@ -1,10 +1,10 @@
-﻿using Portal.CMS.Services.Authentication;
-using Portal.CMS.Services.Generic;
-using Portal.CMS.Services.PageBuilder;
-using Portal.CMS.Web.Architecture.ActionFilters;
-using Portal.CMS.Web.Architecture.Extensions;
-using Portal.CMS.Web.Areas.PageBuilder.ViewModels.Section;
-using Portal.CMS.Web.ViewModels.Shared;
+﻿using Farz.CMS.Services.Authentication;
+using Farz.CMS.Services.Generic;
+using Farz.CMS.Services.PageBuilder;
+using Farz.CMS.Web.Architecture.ActionFilters;
+using Farz.CMS.Web.Architecture.Extensions;
+using Farz.CMS.Web.Areas.PageBuilder.ViewModels.Section;
+using Farz.CMS.Web.ViewModels.Shared;
 using System;
 using System.Linq;
 using System.Net;
@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 using System.Web.Mvc;
 using System.Web.SessionState;
 
-namespace Portal.CMS.Web.Areas.PageBuilder.Controllers
+namespace Farz.CMS.Web.Areas.PageBuilder.Controllers
 {
     [AdminFilter(ActionFilterResponseType.Modal)]
     [SessionState(SessionStateBehavior.ReadOnly)]

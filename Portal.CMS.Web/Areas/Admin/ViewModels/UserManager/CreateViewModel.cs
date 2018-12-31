@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace Portal.CMS.Web.Areas.Admin.ViewModels.UserManager
+namespace Farz.CMS.Web.Areas.Admin.ViewModels.UserManager
 {
     public class CreateViewModel
     {

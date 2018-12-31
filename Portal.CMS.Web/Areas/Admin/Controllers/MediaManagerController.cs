@@ -1,15 +1,15 @@
-﻿using Portal.CMS.Services.Generic;
-using Portal.CMS.Services.Posts;
-using Portal.CMS.Services.Themes;
-using Portal.CMS.Web.Architecture.ActionFilters;
-using Portal.CMS.Web.Areas.Admin.ViewModels.MediaManager;
+﻿using Farz.CMS.Services.Generic;
+using Farz.CMS.Services.Posts;
+using Farz.CMS.Services.Themes;
+using Farz.CMS.Web.Architecture.ActionFilters;
+using Farz.CMS.Web.Areas.Admin.ViewModels.MediaManager;
 using System;
 using System.IO;
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Portal.CMS.Web.Areas.Admin.Controllers
+namespace Farz.CMS.Web.Areas.Admin.Controllers
 {
     public class MediaManagerController : Controller
     {

@@ -1,6 +1,6 @@
-namespace Portal.CMS.Web.DependencyResolution
+namespace Farz.CMS.Web.DependencyResolution
 {
-    using Portal.CMS.Web.App_Start;
+    using Farz.CMS.Web.App_Start;
     using StructureMap.Web.Pipeline;
     using System.Web;
 

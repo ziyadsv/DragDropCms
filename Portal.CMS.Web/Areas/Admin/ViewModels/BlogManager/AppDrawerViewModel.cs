@@ -1,7 +1,7 @@
-﻿using Portal.CMS.Entities.Entities;
+﻿using Farz.CMS.Entities.Entities;
 using System.Collections.Generic;
 
-namespace Portal.CMS.Web.Areas.Admin.ViewModels.BlogManager
+namespace Farz.CMS.Web.Areas.Admin.ViewModels.BlogManager
 {
     public class AppDrawerViewModel
     {

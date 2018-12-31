@@ -1,11 +1,11 @@
-﻿using Portal.CMS.Entities;
-using Portal.CMS.Entities.Entities;
+﻿using Farz.CMS.Entities;
+using Farz.CMS.Entities.Entities;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Portal.CMS.Services.Menu
+namespace Farz.CMS.Services.Menu
 {
     public interface IMenuItemService
     {

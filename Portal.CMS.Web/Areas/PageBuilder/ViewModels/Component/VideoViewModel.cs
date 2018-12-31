@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace Portal.CMS.Web.Areas.PageBuilder.ViewModels.Component
+namespace Farz.CMS.Web.Areas.PageBuilder.ViewModels.Component
 {
     public class VideoViewModel
     {

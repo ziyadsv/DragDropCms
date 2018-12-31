@@ -1,11 +1,11 @@
-﻿using Portal.CMS.Entities.Entities;
-using Portal.CMS.Entities.Enumerators;
-using Portal.CMS.Web.ViewModels.Shared;
+﻿using Farz.CMS.Entities.Entities;
+using Farz.CMS.Entities.Enumerators;
+using Farz.CMS.Web.ViewModels.Shared;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace Portal.CMS.Web.Areas.Admin.ViewModels.BlogManager
+namespace Farz.CMS.Web.Areas.Admin.ViewModels.BlogManager
 {
     public class CreatePostViewModel
     {

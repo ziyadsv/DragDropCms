@@ -1,12 +1,12 @@
-﻿using Portal.CMS.Services.PageBuilder;
-using Portal.CMS.Web.Architecture.ActionFilters;
+﻿using Farz.CMS.Services.PageBuilder;
+using Farz.CMS.Web.Architecture.ActionFilters;
 using System;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Web.Mvc;
 using System.Web.SessionState;
 
-namespace Portal.CMS.Web.Areas.PageBuilder.Controllers
+namespace Farz.CMS.Web.Areas.PageBuilder.Controllers
 {
     [AdminFilter(ActionFilterResponseType.Modal)]
     [SessionState(SessionStateBehavior.ReadOnly)]

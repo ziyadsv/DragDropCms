@@ -1,7 +1,7 @@
-﻿using Portal.CMS.Services.Themes;
-using Portal.CMS.Web.DependencyResolution;
+﻿using Farz.CMS.Services.Themes;
+using Farz.CMS.Web.DependencyResolution;
 
-namespace Portal.CMS.Web.Architecture.Helpers
+namespace Farz.CMS.Web.Architecture.Helpers
 {
     public static class ThemeHelper
     {

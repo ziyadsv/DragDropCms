@@ -1,8 +1,8 @@
-using Portal.CMS.Entities.Entities;
+using Farz.CMS.Entities.Entities;
 using System.Data.Common;
 using System.Data.Entity;
 
-namespace Portal.CMS.Entities
+namespace Farz.CMS.Entities
 {
     public class PortalEntityModel : DbContext
     {

@@ -1,7 +1,7 @@
-﻿using Portal.CMS.Entities;
-using Portal.CMS.Entities.Entities;
-using Portal.CMS.Entities.Enumerators;
-using Portal.CMS.Services.Shared;
+﻿using Farz.CMS.Entities;
+using Farz.CMS.Entities.Entities;
+using Farz.CMS.Entities.Enumerators;
+using Farz.CMS.Services.Shared;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace Portal.CMS.Services.PageBuilder
+namespace Farz.CMS.Services.PageBuilder
 {
     public interface IPageSectionService
     {

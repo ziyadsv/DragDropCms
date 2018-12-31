@@ -1,7 +1,7 @@
 ﻿using System.Web.Mvc;
 using System.Web.SessionState;
 
-namespace Portal.CMS.Web.Areas.Profile.Controllers
+namespace Farz.CMS.Web.Areas.Profile.Controllers
 {
     [SessionState(SessionStateBehavior.ReadOnly)]
     public class WidgetsController : Controller

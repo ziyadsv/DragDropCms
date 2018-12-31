@@ -1,8 +1,8 @@
-﻿using Portal.CMS.Entities.Entities;
+﻿using Farz.CMS.Entities.Entities;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Portal.CMS.Entities.Seed
+namespace Farz.CMS.Entities.Seed
 {
     public static class MenuSeed
     {

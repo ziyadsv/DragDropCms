@@ -1,8 +1,8 @@
-﻿using Portal.CMS.Entities.Entities;
+﻿using Farz.CMS.Entities.Entities;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Portal.CMS.Web.Architecture.Helpers
+namespace Farz.CMS.Web.Architecture.Helpers
 {
     public static class UserHelper
     {

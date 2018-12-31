@@ -2,7 +2,7 @@
 using SendGrid.Helpers.Mail;
 using System.Threading.Tasks;
 
-namespace Portal.CMS.Web.Architecture.Helpers
+namespace Farz.CMS.Web.Architecture.Helpers
 {
     public static class EmailHelper
     {

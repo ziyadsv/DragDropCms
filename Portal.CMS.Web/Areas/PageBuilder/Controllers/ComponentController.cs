@@ -1,17 +1,17 @@
-﻿using Portal.CMS.Entities.Enumerators;
-using Portal.CMS.Services.Generic;
-using Portal.CMS.Services.PageBuilder;
-using Portal.CMS.Web.Architecture.ActionFilters;
-using Portal.CMS.Web.Architecture.Extensions;
-using Portal.CMS.Web.Areas.PageBuilder.ViewModels.Component;
-using Portal.CMS.Web.ViewModels.Shared;
+﻿using Farz.CMS.Entities.Enumerators;
+using Farz.CMS.Services.Generic;
+using Farz.CMS.Services.PageBuilder;
+using Farz.CMS.Web.Architecture.ActionFilters;
+using Farz.CMS.Web.Architecture.Extensions;
+using Farz.CMS.Web.Areas.PageBuilder.ViewModels.Component;
+using Farz.CMS.Web.ViewModels.Shared;
 using System;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Web.Mvc;
 using System.Web.SessionState;
 
-namespace Portal.CMS.Web.Areas.PageBuilder.Controllers
+namespace Farz.CMS.Web.Areas.PageBuilder.Controllers
 {
     [AdminFilter(ActionFilterResponseType.Modal)]
     [SessionState(SessionStateBehavior.ReadOnly)]

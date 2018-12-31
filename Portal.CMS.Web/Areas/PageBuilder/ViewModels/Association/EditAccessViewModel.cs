@@ -1,8 +1,8 @@
-﻿using Portal.CMS.Entities.Entities;
+﻿using Farz.CMS.Entities.Entities;
 using System.Collections.Generic;
 using System.ComponentModel;
 
-namespace Portal.CMS.Web.Areas.PageBuilder.ViewModels.Association
+namespace Farz.CMS.Web.Areas.PageBuilder.ViewModels.Association
 {
     public class EditAccessViewModel
     {

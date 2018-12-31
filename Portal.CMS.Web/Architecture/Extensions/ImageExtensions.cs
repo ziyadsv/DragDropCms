@@ -1,7 +1,7 @@
-﻿using Portal.CMS.Entities.Entities;
-using Portal.CMS.Web.Architecture.Helpers;
+﻿using Farz.CMS.Entities.Entities;
+using Farz.CMS.Web.Architecture.Helpers;
 
-namespace Portal.CMS.Web.Architecture.Extensions
+namespace Farz.CMS.Web.Architecture.Extensions
 {
     public static class ImageExtensions
     {

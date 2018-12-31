@@ -1,9 +1,9 @@
-﻿using Portal.CMS.Entities.Entities;
-using Portal.CMS.Services.Menu;
-using Portal.CMS.Web.DependencyResolution;
+﻿using Farz.CMS.Entities.Entities;
+using Farz.CMS.Services.Menu;
+using Farz.CMS.Web.DependencyResolution;
 using System.Collections.Generic;
 
-namespace Portal.CMS.Web.Architecture.Helpers
+namespace Farz.CMS.Web.Architecture.Helpers
 {
     public static class MenuHelper
     {

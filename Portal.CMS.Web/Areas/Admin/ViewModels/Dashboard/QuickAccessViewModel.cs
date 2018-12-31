@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Portal.CMS.Web.Areas.Admin.ViewModels.Dashboard
+namespace Farz.CMS.Web.Areas.Admin.ViewModels.Dashboard
 {
     public class QuickAccessViewModel
     {

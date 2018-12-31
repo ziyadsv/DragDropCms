@@ -1,4 +1,4 @@
-﻿namespace Portal.CMS.Entities.Enumerators
+﻿namespace Farz.CMS.Entities.Enumerators
 {
     public enum PageSectionBackgroundStyle
     {
